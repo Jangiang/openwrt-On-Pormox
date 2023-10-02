@@ -7,5 +7,5 @@ ls
 gunzip "Openwrt FW.img.gz"
 ls
 qm importdisk "VM ID" "Openwrt FW.img" local-lvm
->OPITION>Boot Order> Bỏ tích (scis0 ide2)
+>OPITION>Boot Order> Bỏ tích (net0 ide2)
 
